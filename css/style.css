@@ -249,9 +249,9 @@ img {
 
 /*---Banner---*/
 .banner-area {
-	/*background-image: url(../images/Carousel.png); /*--edit image--*/
-	/*background-position: center;
-	background-size: cover;*/
+	background-image: url(../images/carousel.png); 
+	background-position: center;
+	background-size: cover;
 	vertical-align: middle;
 	position: relative;
 	height: 100%;
