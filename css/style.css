@@ -1,4 +1,4 @@
-/*Table of Content
+/*Table of Contents
 
     1. Default
     2. Mouse Animation
@@ -250,8 +250,8 @@ img {
 /*---Banner---*/
 .banner-area {
 	/*background-image: url(../images/Carousel.png); /*--edit image--*/
-	background-position: center;
-	background-size: cover;
+	/*background-position: center;
+	background-size: cover;*/
 	vertical-align: middle;
 	position: relative;
 	height: 100%;
@@ -367,6 +367,13 @@ canvas {
 	font-size: 15px;
 	color: #222;
 	margin-bottom: 50px;
+}
+.aboutimage{
+}
+.aboutimage img{
+	display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 /*---About Ends---*/
 
