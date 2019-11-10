@@ -249,7 +249,7 @@ img {
 
 /*---Banner---*/
 .banner-area {
-	background-image: url(/images/Carousel.png); 
+	background-image: url(./images/Carousel.png); 
 	background-position: center;
 	background-size: cover;
 	vertical-align: middle;
